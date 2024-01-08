@@ -6,11 +6,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazhir95)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-[My contribution chart in 3d (2023)](https://skyline.github.com/hazhir95/2023)<br>
-[My contribution chart in 3d (2022)](https://skyline.github.com/hazhir95/2022)<br>
-[My contribution chart in 3d (2021)](https://skyline.github.com/hazhir95/2021)<br>
-[My contribution chart in 3d (2020)](https://skyline.github.com/hazhir95/2020)<br>
-[My contribution chart in 3d (2019)](https://skyline.github.com/hazhir95/2019)<br>
-[My contribution chart in 3d (2018)](https://skyline.github.com/hazhir95/2018)<br>
-[My contribution chart in 3d (2017)](https://skyline.github.com/hazhir95/2017)
+[3D Contribution Chart (inactive)](https://skyline.github.com/hazhir95/2017)
